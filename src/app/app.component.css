@@ -1,0 +1,9 @@
+h1{
+    background-color: yellowgreen;
+    color: darkgray;
+}
+
+h3{
+    color: lightgray;
+    border: 2px dashed darkblue;
+}
